@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Deepak+Kumar+S+S+%F0%9F%91%8B;Backend+Engineer+%7C+4.9+yrs;Distributed+Systems+%7C+Java+%7C+Spring+Boot;GSoC+2026+%E2%80%94+Apache+Fineract;Blockchain+Developer+%7C+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Deepak+Kumar+S+S+%F0%9F%91%8B;Backend+Engineer+%7C+5+yrs;Distributed+Systems+%7C+Java+%7C+Spring+Boot;GSoC+2026+%E2%80%94+Apache+Fineract;Blockchain+Developer+%7C+Researcher" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/deepak-kumar-s-s-523335207">
