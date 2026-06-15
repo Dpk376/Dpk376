@@ -116,12 +116,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏦 **CHESS-R (ASX)** | Clearing and settlement platform for the Australian Securities Exchange. Own 4 distributed microservices, 5M+ events/day with exactly-once guarantees, sub-200ms p99, 75% consumer-lag reduction | Java, Kafka, PostgreSQL, Redis, K8s, AWS |
-| 🤖 **Antigravity** | Agentic AI system for a post-trade clearing platform: 10+ custom domain skills and 8 orchestrated agents driving SDLC automation | Claude, MCP, Agent Skills |
-| 🌐 **Apache Fineract** | Open-source contributor. Migrated 15+ integration tests from RestAssured to type-safe Feign clients across 5 merged PRs | Java, Spring Boot, Feign, OpenAPI |
-| 🎨 **MetaPlay** | Decentralized content marketplace on Ethereum. Preprint published on Zenodo | Solidity, IPFS, Polygon L2, The Graph |
-| 💰 **CoinFantasy** | DeFi staking platform with on-chain liquidity pools and reentrancy-protected withdrawals | Solidity, Ethereum, Web3.js |
-| 🔐 **SmartContractsHub** | Production-quality Ethereum contracts: DeFi primitives, upgradeable proxies, gas-optimized | Solidity, OpenZeppelin |
+| 🌐 **Apache Fineract** | Open-source contributor - migrated 15+ integration tests from RestAssured to type-safe Feign clients across 5 merged PRs (FINERACT-2454, FINERACT-2549) | Java, Spring Boot, Feign, OpenAPI |
+| 📨 **Apache Kafka** | Contributor - production Kafka patterns: idempotent consumers, exactly-once semantics, DLQ design, consumer-lag observability at 20M+ events/day scale | Java, Kafka Streams, Spring Kafka |
+| 🔄 **[PostTradeClearingPlatform](https://github.com/Dpk376/PostTradeClearingPlatform)** | Event-driven microservices system for post-trade clearing and settlement. Hexagonal architecture, Saga pattern, Outbox-based exactly-once Kafka delivery, Debezium CDC | Java, Spring Boot, Kafka, PostgreSQL, Docker |
+| 🔐 **[enterprise-rbac-gateway](https://github.com/Dpk376/enterprise-rbac-gateway)** | Production-grade API gateway with RBAC, JWT + OAuth2 auth, hierarchical role resolution, rate limiting, and circuit breaker - zero-trust entry point for microservice meshes | Java, Spring Security, Redis, JWT, OAuth2 |
+| 🧠 **[llm-inference-gateway](https://github.com/Dpk376/llm-inference-gateway)** | High-throughput LLM inference gateway with dynamic request routing, token budget enforcement, provider failover, and per-tenant quota management | Java, Spring Boot, Redis, gRPC, REST |
+| ⚡ **[RateLimitControlPlane](https://github.com/Dpk376/RateLimitControlPlane)** | Distributed rate-limit control plane with sliding-window counters, per-client policy configs, Redis-backed state, and real-time quota enforcement at API-gateway scale | Java, Redis, Spring Boot, Lua scripting |
+| 🚀 **[dynamic-batching-inference-server](https://github.com/Dpk376/dynamic-batching-inference-server)** | Inference server with adaptive request batching - groups concurrent LLM requests into optimal batch sizes to maximize GPU throughput while meeting latency SLOs | Java, Spring Boot, gRPC, Async Processing |
 
 ---
 
