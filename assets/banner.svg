@@ -1,0 +1,52 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid meet">
+<title>Deepak Kumar S S — backend engineer</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0d1117"/><stop offset="0.5" stop-color="#11182a"/><stop offset="1" stop-color="#0a0d14"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#C9971A"/><stop offset="0.45" stop-color="#F6C517"/><stop offset="1" stop-color="#FFE699"/>
+</linearGradient>
+<linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#F6C517" stop-opacity="0"/><stop offset="0.5" stop-color="#F6C517" stop-opacity="0.75"/><stop offset="1" stop-color="#F6C517" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.8"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#F6C517" stop-opacity="0.16"/><stop offset="0.6" stop-color="#1F4068" stop-opacity="0.06"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+</radialGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#F6C517" fill-opacity="0.05"/></pattern>
+<mask id="nameMask"><rect width="1200" height="280" fill="black"/><text x="600" y="152" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="2" fill="white">DEEPAK KUMAR S S</text></mask>
+</defs>
+<rect width="1200" height="280" rx="10" fill="url(#bg)"/>
+<rect width="1200" height="280" rx="10" fill="url(#grid)"/>
+<rect width="1200" height="280" rx="10" fill="url(#glow)"/>
+<rect x="40" y="8" width="1120" height="1.5" fill="url(#rule)"/>
+<rect x="40" y="270" width="1120" height="1.5" fill="url(#rule)"/>
+<g stroke="#F6C517" stroke-width="2" stroke-opacity="0.55" fill="none" stroke-linecap="round">
+<path d="M22,52 L22,22 L52,22"/><path d="M1148,22 L1178,22 L1178,52"/><path d="M22,228 L22,258 L52,258"/><path d="M1148,258 L1178,258 L1178,228"/>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1s" begin="0s" fill="freeze"/>
+<text x="600" y="66" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="13" letter-spacing="4" fill="#F6C517" fill-opacity="0.8">DISTRIBUTED SYSTEMS &#183; FINANCIAL-MARKET SCALE</text>
+<text x="600" y="152" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="2" fill="url(#gold)">DEEPAK KUMAR S S</text>
+<g mask="url(#nameMask)"><rect x="-320" y="100" width="280" height="80" fill="url(#shimmer)"><animate attributeName="x" from="-320" to="1200" dur="4.5s" repeatCount="indefinite"/></rect></g>
+<rect x="470" y="179" width="92" height="1.6" fill="url(#rule)"/><rect x="638" y="179" width="92" height="1.6" fill="url(#rule)"/>
+<rect x="594" y="174" width="12" height="12" fill="url(#gold)" transform="rotate(45 600 180)"><animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="600" y="212" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" letter-spacing="1.5" fill="#E8D9C4"><tspan fill="#F6C517" font-weight="700">SDE-2 @ Flipkart</tspan>  &#183;  Senior Backend Engineer  &#183;  Java &#183; Kafka &#183; Spring</text>
+<line x1="90" y1="250" x2="1110" y2="250" stroke="#F6C517" stroke-opacity="0.16" stroke-width="1"/>
+<g fill="#0d1117" stroke="#F6C517" stroke-width="1.5">
+<circle cx="90" cy="250" r="5"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite" begin="0s"/><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite" begin="0s"/></circle>
+<circle cx="345" cy="250" r="5"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite" begin="0.5s"/><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite" begin="0.5s"/></circle>
+<circle cx="600" cy="250" r="5"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite" begin="1s"/><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite" begin="1s"/></circle>
+<circle cx="855" cy="250" r="5"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite" begin="1.5s"/><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite" begin="1.5s"/></circle>
+<circle cx="1110" cy="250" r="5"><animate attributeName="r" values="5;7;5" dur="2.6s" repeatCount="indefinite" begin="2s"/><animate attributeName="stroke-opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite" begin="2s"/></circle>
+</g>
+<g fill="#F6C517">
+<circle r="3.5"><animateMotion dur="3.2s" repeatCount="indefinite" begin="0s" path="M90,250 L1110,250"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite" begin="0s"/></circle>
+<circle r="3.5"><animateMotion dur="3.2s" repeatCount="indefinite" begin="-0.8s" path="M90,250 L1110,250"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite" begin="-0.8s"/></circle>
+<circle r="3.5"><animateMotion dur="3.2s" repeatCount="indefinite" begin="-1.6s" path="M90,250 L1110,250"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite" begin="-1.6s"/></circle>
+<circle r="3.5"><animateMotion dur="3.2s" repeatCount="indefinite" begin="-2.4s" path="M90,250 L1110,250"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="3.2s" repeatCount="indefinite" begin="-2.4s"/></circle>
+</g>
+</g>
+</svg>

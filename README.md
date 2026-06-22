@@ -1,7 +1,7 @@
 <!-- PREMIUM HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:162447,100:1F4068&height=220&section=header&text=Deepak%20Kumar%20S%20S&fontColor=F6C517&fontSize=52&fontAlignY=40&desc=SDE-2%20%40%20Flipkart%20%7C%20Backend%20Engineer%20%7C%20Distributed%20Systems&descAlignY=62&descSize=17&animation=fadeIn&stroke=F6C517&strokeWidth=1" width="100%" />
+<img src="https://raw.githubusercontent.com/Dpk376/Dpk376/main/assets/banner.svg" width="100%" alt="Deepak Kumar S S — SDE-2 @ Flipkart · Senior Backend Engineer · Distributed Systems" />
 
 <!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=F6C517&center=true&vCenter=true&multiline=false&width=800&height=50&lines=SDE-2+%40+Flipkart+%F0%9F%9B%92+%7C+Backend+Engineer;20M+trade+events%2Fday+%E2%86%92+ASX+CHESS+Replacement;Apache+Fineract+%7C+Spring+AI+%7C+Kafka+Contributor;Java+21+%7C+Spring+Boot+%7C+Kafka+%7C+PostgreSQL+%7C+Redis;Building+reliable+systems+at+production+scale+%E2%9A%A1" alt="Typing SVG" />
@@ -171,12 +171,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dpk376&hide_border=true&background=0d1117&ring=F6C517&fire=F6C517&currStreakLabel=F6C517&currStreakNum=FFFFFF&sideLabels=E8D9C4&sideNums=FFFFFF&dates=888888&stroke=F6C517" />
-
-</div>
-
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
@@ -241,8 +235,6 @@ Proof-of-concept for a creator economy platform on Ethereum with IPFS storage, P
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20reliable%2C%20secure%2C%20and%20high-performance%20backend%20systems%20at%20scale.&author=Deepak%20Kumar%20S%20S" />
+<img src="https://raw.githubusercontent.com/Dpk376/Dpk376/main/assets/footer.svg" width="100%" alt="Building reliable, secure & high-performance systems at scale · Open to collaboration · github.com/Dpk376 · Chennai, India" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1F4068,50:162447,100:0d1117&height=140&section=footer&reversal=true&animation=fadeIn" width="100%" />
